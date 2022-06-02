@@ -1,0 +1,6 @@
+{
+  "timestamp": "2022-05-28T17:05:56.500+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/purchase"
+}
